@@ -34,7 +34,7 @@
       <div class="wrap-login100">
         <form class="login100-form validate-form">
           <span class="login100-form-title p-b-43">
-            Negros Polymedic Hospital
+            Negros Polymedic Hospital Login
           </span>
           
           
